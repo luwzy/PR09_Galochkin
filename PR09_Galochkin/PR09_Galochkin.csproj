@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1E83F664-703C-40F5-8A18-AFD2E39D98AD}</ProjectGuid>
+    <ProjectGuid>{1DA37603-7F75-A56E-4F29-568F7B1D80C9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>PR09_Galochkin</RootNamespace>
     <AssemblyName>PR09_Galochkin</AssemblyName>
